@@ -1,6 +1,6 @@
 List:
 
-- issue 1
-- issue 2
-- issue 3
+- BST multiset
+- LinkedList multiset
+- Tree multiset
 - issue 4
